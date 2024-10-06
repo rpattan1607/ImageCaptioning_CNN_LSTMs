@@ -40,5 +40,6 @@ PyTorch
 NumPy
 Other necessary libraries (e.g., nltk, tqdm)
 
+* The Libraries used in my environment : [Link to your file](/path/to/your/file.txt) *
 
 ## Sample Output
