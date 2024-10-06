@@ -40,7 +40,7 @@ PyTorch
 NumPy
 Other necessary libraries (e.g., nltk, tqdm)
 
-*The Libraries used in my environment : [Link to your file](/path/to/your/file.txt)*
+*The Libraries used in my environment : [requirements.txt]((https://github.com/rpattan1607/ImageCaptioning_CNN_LSTMs/blob/main/requirements.txt))*
 
 ## Sample Output
 
