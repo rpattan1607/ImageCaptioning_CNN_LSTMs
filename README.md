@@ -39,3 +39,6 @@ Python
 PyTorch 
 NumPy
 Other necessary libraries (e.g., nltk, tqdm)
+
+
+## Sample Output
