@@ -21,6 +21,18 @@ Key Features
 
 ![image](https://github.com/user-attachments/assets/ac08d163-d32e-4d65-aa03-f4fea3c03fdb)
 
+### Decoder : LSTM for generation textual caption
+
+Long Short-Term Memory (LSTM) networks are a type of recurrent neural network (RNN) specifically designed to address the vanishing gradient problem that can occur in traditional RNNs, making them well-suited for tasks involving sequential data, such as language modeling and image captioning.
+
+How LSTM Works
+LSTMs introduce a concept called "gates" to control the flow of information through the network. These gates include:
+
+* Input gate: Determines how much of the new input should be remembered.
+* Forget gate: Controls how much of the previous state should be forgotten.
+* Output gate: Determines how much of the internal state should be output.
+This gated architecture allows LSTMs to effectively handle long-range dependencies in the data, making them suitable for tasks where the output depends on information from earlier parts of the sequence.
+
 ## Requirements 
 
 Python
