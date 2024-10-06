@@ -14,9 +14,9 @@ This repository contains code for generating descriptive captions for images usi
 ResNet-152 (https://arxiv.org/abs/1512.03385) is a deep convolutional neural network (CNN) architecture that has achieved state-of-the-art performance on various computer vision tasks, including image classification, object detection, and semantic segmentation. Its depth and residual learning mechanism allow it to capture complex patterns and features in images effectively.   
 
 Key Features
-Residual Learning: ResNet-152 incorporates residual learning blocks, which enable the network to learn residual functions instead of the entire underlying mapping. This helps to alleviate the vanishing gradient problem and allows for the training of very deep networks.
-Depth: With 152 layers, ResNet-152 is a very deep network, allowing it to capture intricate patterns and details in images.
-Pre-trained Weights: ResNet-152 is often used with pre-trained weights on the ImageNet dataset, providing a strong feature extractor for various tasks.
+* Residual Learning: ResNet-152 incorporates residual learning blocks, which enable the network to learn residual functions instead of the entire underlying mapping. This helps to alleviate the vanishing gradient problem and allows for the training of very deep networks.
+* Depth: With 152 layers, ResNet-152 is a very deep network, allowing it to capture intricate patterns and details in images.
+* Pre-trained Weights: ResNet-152 is often used with pre-trained weights on the ImageNet dataset, providing a strong feature extractor for various tasks.
 
 
 ![image](https://github.com/user-attachments/assets/ac08d163-d32e-4d65-aa03-f4fea3c03fdb)
