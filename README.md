@@ -47,4 +47,4 @@ Other necessary libraries (e.g., nltk, tqdm)
 A Sample output from saved model. 
 PS : The model was trained only short interval time of 4 epochs
 
-![image](https://github.com/user-attachments/assets/5998630b-8bb4-4ae8-8f58-e097f2db4974)
+![image](https://github.com/rpattan1607/ImageCaptioning_CNN_LSTMs/blob/main/predicted2.png)
